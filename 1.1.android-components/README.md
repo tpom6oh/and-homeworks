@@ -2,9 +2,9 @@
 
 Необходимо выполнить и представить на проверку следующие задания:
 
-1. [Первый Android проект](https://github.com/netology-code/and-homeworks/tree/master/android-components/1.1.1)
+1. [Первый Android проект](https://github.com/netology-code/and-homeworks/tree/master/1.1.android-components/1.1.1)
 
-2. [Собственный Hello world](https://github.com/netology-code/and-homeworks/tree/master/android-components/1.1.2)
+2. [Собственный Hello world](https://github.com/netology-code/and-homeworks/tree/master/1.1.android-components/1.1.2)
 
 
 
@@ -29,4 +29,6 @@
 
 Файлы или архивы через личный кабинет отправлять не нужно!
 
-Задание отправляется на проверку когда выполнены все задачи.
+Все задачи обязательны к выполнению для получения зачета. Присылать на проверку можно каждую задачу по отдельности или все задачи вместе. Во время проверки по частям ваша домашняя работа будет со статусом "На доработке".
+
+Любые вопросы по решению задач задавайте в чате Slack.
